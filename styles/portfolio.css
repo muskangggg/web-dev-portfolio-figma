@@ -132,3 +132,33 @@ main{
     box-shadow: 0px 6px 50px 0px rgb(0, 0, 0, 0.06);
     border-radius: 5px;
 }
+/* resume styles */
+.resume-container{
+    display: flex;
+    gap: 24px;
+}
+.resume-download-cv{
+    margin-top: 50px;
+}
+.resume-heading{
+    font-size: 35px;
+    font-weight: bold;
+    margin-bottom: 110px;
+}
+.resume-column-title{
+    font-size: 30px;
+    font-weight: bold;
+    color: #474747;
+}
+.experience-title{
+    color: #474747;
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.resume-section hr{
+    margin: 30px 5px;
+}
+.resume-column{
+    width: auto;
+}
